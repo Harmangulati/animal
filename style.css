@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(to right top, #1ae9cd, #b9e41d, #18d848, #460be6, #000507);
+   font-family: 'Oswald', sans-serif; 
+   }
+   .header_div{
+    background: blueviolet;
+    color: aqua;   
+   }
+   .header_div p{
+   font-family: 'Festive', cursive;
+   font-size: x-large;
+   font-weight: bold;
+   letter-spacing: 3px;
+   color:snow;
+   }
+   .main_div button{
+       font-family: 'Pacifico', cursive;
+       width: 150px;
+       letter-spacing: 2px;
+       font-weight: bold;
+      margin-top: 30px; 
+   }
+   .footer{
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    font-size: medium;
+    color: coral;
+    text-shadow: 5px  5px 5px grey;
+    line-height: 3;
+    background: white;   
+   }
